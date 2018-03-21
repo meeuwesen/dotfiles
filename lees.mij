@@ -1,0 +1,9 @@
+Install eerst
+zsh, tmux, vim, util-linux-user
+
+for Fedora
+
+dnf install -y zsh
+dnf install -y tmux
+dnf install -y vim
+dnf install -y util-linux-user
